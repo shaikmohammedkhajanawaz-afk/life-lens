@@ -1,0 +1,19 @@
+id,label,title,merchant,date,time,category,amount,flow,color,type,chapter,location,note,tags,connected
+1,Music,Night Drive,Chromatics - Kill For Love,2024-10-14,23:48,Entertainment,12,expense,#7c68ed,music,After hours,Koregaon Park,The city looked different through the windshield.,late nights|drive,2|3
+2,Place,Koregaon Park,"Pune, Maharashtra",2024-10-14,00:16,Travel,0,expense,#39c6d8,place,After hours,Pune,A detour that turned into a very good idea.,wander|pune,1|3|4
+3,Photo,orange streetlight,IMG_4821.JPG - 2.8 MB,2024-10-14,00:34,Entertainment,0,expense,#f5a54a,photo,After hours,Koregaon Park,Proof that ordinary nights can glow.,night|found,1|2
+4,Purchase,Two masala chai,Irani Cafe,2024-10-14,00:51,Food & Dining,160,expense,#f5a54a,purchase,After hours,Pune,One for the road. One for the story.,small joys,2
+5,Search,how to start over,Google - 3 results saved,2024-11-02,02:07,Others,0,expense,#39c6d8,search,The in-between,Home,A question asked quietly is still a question.,turning point,6|7
+6,Note,leave room for the unknown,Personal note - 18 words,2024-11-02,02:13,Others,0,expense,#a58bff,note,The in-between,Home,The sentence you wrote before falling asleep.,becoming,5|7
+7,Message,come outside,From Mira - 02:19 AM,2024-11-02,02:19,Others,0,expense,#39c6d8,message,The in-between,Home,Some answers arrive as invitations.,people|turning point,5|6|8
+8,Place,Aundh hill,"Pune, Maharashtra",2024-11-02,02:46,Travel,0,expense,#39c6d8,place,The in-between,Pune,The whole city held at a distance.,wander|pune,7|9
+9,Event,Sunrise Club,A small gathering - 12 people,2024-11-02,05:51,Entertainment,850,expense,#f5a54a,event,The in-between,Pune,The night did not end. It changed shape.,people|new,8|10
+10,Film,Perfect Days,Watched on MUBI,2024-12-18,21:12,Entertainment,399,expense,#a58bff,movie,Soft focus,Home,A reminder that a quiet life can still be full.,slow|home,11
+11,Purchase,one yellow lamp,The Wicker Store,2024-12-20,16:28,Shopping,2400,expense,#f5a54a,purchase,Soft focus,Home,You made a corner feel like a beginning.,home|new,10|12
+12,Photo,the reading corner,IMG_5102.JPG - 4.1 MB,2024-12-31,18:03,Housing,0,expense,#39c6d8,photo,Soft focus,Home,Light books and nowhere else to be.,home|slow,11|13
+13,Music,My Kind of Woman,Mac DeMarco - Salad Days,2025-01-01,00:01,Entertainment,149,expense,#7c68ed,music,Soft focus,Home,A new year with the volume low.,slow|new,12
+14,Search,best train to goa,Google - 14 tabs opened,2025-01-08,22:39,Travel,0,expense,#39c6d8,search,Next stop,Home,The first spark of a plan.,escape|next,15
+15,Event,Konkan Express,Booking confirmed - Coach S4,2025-01-12,08:30,Travel,1800,expense,#f5a54a,event,Next stop,Pune Junction,You stopped waiting for the perfect time.,escape|next,14|16
+16,Photo,first light / 6:12,IMG_5220.JPG - 3.5 MB,2025-01-14,06:12,Travel,0,expense,#39c6d8,photo,Next stop,Alibaug,Somewhere new still recognisably you.,escape|found,15
+17,Income,January salary,Orbit Systems - credited,2025-01-01,09:00,Income,85000,income,#46d39a,income,New chapter,Pune,The steady current beneath the small moments.,work|steady,11|15
+18,Purchase,birthday dinner,The Table - 4 guests,2025-01-19,20:45,Food & Dining,3200,expense,#f5a54a,purchase,New chapter,Pune,A table full of people who make the year brighter.,people|celebrate,17
